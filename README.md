@@ -99,12 +99,10 @@ flutter run
 
 ## 👥 Team Members
 
-| Name | Student ID |
-|---|---|
-| Afnan Nasser Al Hujaili | 3755535 |
-| Amjad Fawzi Al Amri | 4050286 |
-| Ebtihal Saad Al Hajili | 3756797 |
-| Seham Sultan Matouq | 4050089 |
+- Afnan Nasser Al Hujaili
+- Amjad Fawzi Al Amri
+- Ebtihal Saad Al Hajili
+- Seham Sultan Matouqe
 
 **Supervised by:** Dr. Ibtehal Talal Nafea
 
